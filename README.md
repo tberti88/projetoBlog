@@ -17,7 +17,6 @@
 
 :small_blue_diamond: [Casos de Uso](#casos-de-uso)
 
-... 
 
 ## Descrição do projeto 
 
